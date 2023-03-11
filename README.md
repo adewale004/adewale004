@@ -1,6 +1,10 @@
 # Hi there 👋
 
-## Welcome to my Github Page
+##  I am Adewale, a Data Analyst with a background in Surveying, GIS and Remote sensing.
+
+- 🔭 I’m currently learning Power BI, SQL, and Python to analyze and make data deriven decisions
+- 👯 I’m looking to collaborate with other data professionals to solve problems
+- 💬 Ask me about data analysis, GIS, surveying.
 <!--
 **adewale004/adewale004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
